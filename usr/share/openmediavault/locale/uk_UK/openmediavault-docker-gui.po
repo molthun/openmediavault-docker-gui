@@ -1,6 +1,6 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
+# This file is distributed under the same license as the openmediavault-docker-gui package.
 # 
 # Translators:
 # zubr139, 2016
@@ -8,9 +8,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: openmediavault-docker-gui\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-08-24 05:54-0500\n"
-"PO-Revision-Date: 2017-09-23 21:30+0000\n"
-"Last-Translator: zubr139\n"
+"POT-Creation-Date: 2019-01-17 07:38-0600\n"
+"PO-Revision-Date: 2019-01-17 13:38+0000\n"
+"Last-Translator: Aaron Murray <aaronmurray27@gmail.com>\n"
 "Language-Team: Ukrainian (http://www.transifex.com/openmediavault-plugin-developers/openmediavault-docker-gui/language/uk/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,28 +18,64 @@ msgstr ""
 "Language: uk\n"
 "Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != 11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || (n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
 
-msgid "Bad input"
+msgid "Action"
 msgstr ""
 
-msgid "Bind mounts"
+msgid "Add"
+msgstr ""
+
+msgid "Bad input"
 msgstr ""
 
 msgid "COMMAND"
 msgstr ""
 
+msgid "CONTAINER COMMAND"
+msgstr ""
+
 msgid "CONTAINER ID"
+msgstr ""
+
+msgid "CONTAINERS"
 msgstr ""
 
 msgid "CREATED"
 msgstr ""
 
-msgid "Cancel"
-msgstr "Скасувати"
+msgid "Category"
+msgstr ""
+
+msgid "Clear Log"
+msgstr ""
 
 msgid "Close"
 msgstr "Закрити"
 
+msgid "Command"
+msgstr ""
+
+msgid "Commit"
+msgstr ""
+
+msgid "Connect"
+msgstr ""
+
+msgid "Connect Network"
+msgstr ""
+
+msgid "Connect network"
+msgstr ""
+
+msgid "Container"
+msgstr ""
+
+msgid "Container command"
+msgstr ""
+
 msgid "Container details"
+msgstr ""
+
+msgid "Container logs"
 msgstr ""
 
 msgid "Container name"
@@ -51,25 +87,61 @@ msgstr ""
 msgid "Copy container"
 msgstr ""
 
-msgid "Copy in progress"
+msgid "Copy data container"
 msgstr ""
 
-msgid "Copy operation is progressing in the background.<br />"
+msgid "Create"
+msgstr ""
+
+msgid "Create data container"
+msgstr ""
+
+msgid "Create network"
+msgstr ""
+
+msgid "DRIVER"
 msgstr ""
 
 msgid "Delete"
 msgstr "Видалити"
 
-msgid "Destination path"
+msgid "Description"
 msgstr ""
 
 msgid "Details"
 msgstr ""
 
+msgid "Disconnect"
+msgstr ""
+
+msgid "Disconnect Network"
+msgstr ""
+
+msgid "Disconnect network"
+msgstr ""
+
 msgid "Docker"
 msgstr ""
 
+msgid "Docker Containers"
+msgstr ""
+
+msgid "Docker Images"
+msgstr ""
+
+msgid "Docker Network"
+msgstr ""
+
 msgid "Docker image"
+msgstr ""
+
+msgid "Docker images repo"
+msgstr ""
+
+msgid "EXTRA ARGUMENTS"
+msgstr ""
+
+msgid "Edit"
 msgstr ""
 
 msgid "Enable the plugin"
@@ -78,13 +150,34 @@ msgstr ""
 msgid "Environment variables"
 msgstr ""
 
+msgid "Execute command"
+msgstr ""
+
+msgid "Extra args"
+msgstr ""
+
+msgid "Extra arguments"
+msgstr ""
+
+msgid "Gateway"
+msgstr ""
+
 msgid "General"
+msgstr ""
+
+msgid "Host name"
+msgstr ""
+
+msgid "ID"
 msgstr ""
 
 msgid "IMAGE"
 msgstr ""
 
 msgid "IMAGE ID"
+msgstr ""
+
+msgid "IP Address"
 msgstr ""
 
 msgid "Image details"
@@ -99,22 +192,65 @@ msgstr ""
 msgid "Information"
 msgstr ""
 
+msgid "Ip Address"
+msgstr ""
+
+msgid "It is not possible to modify a data container."
+msgstr ""
+
+msgid "LOG SIZE"
+msgstr ""
+
+msgid "Logo"
+msgstr ""
+
+msgid "Logs"
+msgstr ""
+
+msgid "Macvlan settings"
+msgstr ""
+
+msgid "Modify"
+msgstr ""
+
+msgid "Modify container"
+msgstr ""
+
+msgid "Modify container failed with message: </br>"
+msgstr ""
+
+msgid "Modify operation failed"
+msgstr ""
+
+msgid "NAME"
+msgstr ""
+
 msgid "NAMES"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Network driver"
 msgstr ""
 
 msgid "Network mode"
 msgstr ""
 
-msgid ""
-"Network port that the Docker API listens on. The plugin must be enabled for "
-"a change to be committed"
+msgid "Network name"
 msgstr ""
 
 msgid "Networking"
 msgstr ""
 
-msgid "OK"
-msgstr "Гаразд"
+msgid "Networks"
+msgstr ""
+
+msgid "No matching repositories found."
+msgstr ""
+
+msgid "Number of retries for on-failure mode"
+msgstr ""
 
 msgid "Output"
 msgstr ""
@@ -126,6 +262,25 @@ msgid "PORTS"
 msgstr ""
 
 msgid "Parameters"
+msgstr ""
+
+msgid "Parent"
+msgstr ""
+
+msgid ""
+"Please be aware that <b>all</b> non-persistent data within the "
+"container</br>will be <b>deleted</b></br>Please see here for more "
+"information:</br><a "
+"href='http://forums.openmediavault.org/index.php/Thread/10921"
+"-openmediavault-docker-gui-Testing/?postID=101996#post102450' "
+"target='_blank'>Link</a></br>This warning can be disabled on the Settings "
+"tab"
+msgstr ""
+
+msgid ""
+"Please check the docker <a "
+"href='https://docs.docker.com/engine/userguide/networking/get-started-"
+"macvlan/' target='_blank'>macvlan documentation</a> for more details."
 msgstr ""
 
 msgid "Please wait ..."
@@ -146,16 +301,22 @@ msgstr ""
 msgid "Refresh"
 msgstr ""
 
+msgid "Refresh image"
+msgstr ""
+
 msgid "Repository"
 msgstr ""
 
 msgid "Restart"
 msgstr "Перезавантажити"
 
-msgid "Restart on system reboot"
+msgid "Restart Policy"
 msgstr ""
 
 msgid "Run Image"
+msgstr ""
+
+msgid "Run cmd"
 msgstr ""
 
 msgid "Run container"
@@ -167,28 +328,46 @@ msgstr ""
 msgid "Run image"
 msgstr ""
 
+msgid "SCOPE"
+msgstr ""
+
+msgid "STATE"
+msgstr ""
+
 msgid "STATUS"
+msgstr ""
+
+msgid "SUBNET"
 msgstr ""
 
 msgid "Search"
 msgstr ""
 
-msgid "Select a directory"
+msgid "Searching..."
+msgstr ""
+
+msgid "Select a container..."
+msgstr ""
+
+msgid "Select a macvlan network ..."
+msgstr ""
+
+msgid "Select macvlan network"
 msgstr ""
 
 msgid "Settings"
 msgstr ""
 
-msgid "Source path for copying of Docker image/container data"
-msgstr ""
-
 msgid "Start"
 msgstr ""
 
-msgid "Start copying of data"
+msgid "Stop"
 msgstr ""
 
-msgid "Stop"
+msgid "Subnet"
+msgstr ""
+
+msgid "Sync time with host"
 msgstr ""
 
 msgid "TAG"
@@ -203,5 +382,36 @@ msgid ""
 "committed"
 msgstr ""
 
+msgid ""
+"These extra arguments will be passed to docker when running the container"
+msgstr ""
+
+msgid "This command and any arguments will be passed to the container"
+msgstr ""
+
+msgid "This setting does not stop/disable or start/enable the docker daemon"
+msgstr ""
+
+msgid "Undo"
+msgstr ""
+
+msgid "Update available. Click to refresh image"
+msgstr ""
+
 msgid "VIRTUAL SIZE"
+msgstr ""
+
+msgid "Volumes"
+msgstr ""
+
+msgid "Volumes and Bind mounts"
+msgstr ""
+
+msgid "Volumes from"
+msgstr ""
+
+msgid "Warn when modifying container"
+msgstr ""
+
+msgid "Warning"
 msgstr ""

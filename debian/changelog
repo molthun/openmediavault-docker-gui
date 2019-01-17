@@ -1,6 +1,7 @@
 openmediavault-docker-gui (4.1.2) stable; urgency=low
 
   * Use daemon.json instead of /etc/default/docker
+  * Update locales
 
  -- OpenMediaVault Plugin Developers <plugins@omv-extras.org>  Thu, 17 Jan 2019 07:28:06 -0600
 
