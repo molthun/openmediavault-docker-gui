@@ -1,7 +1,7 @@
 
 <?php
 /**
- * Copyright (c) 2015-2017 OpenMediaVault Plugin Developers
+ * Copyright (c) 2015-2019 OpenMediaVault Plugin Developers
  *
  * @category OMVModuleDockerContainer
  * @package  Openmediavault-docker-gui

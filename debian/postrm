@@ -12,24 +12,9 @@ case "$1" in
         ;;
 
     purge)
-
-        DEFAULT_DOCKER_FILE="/etc/default/docker"
-        
-        if [ -f ${DEFAULT_DOCKER_FILE} ];then
-            sed -i '/### Do not change these lines\. They are added and updated by the OMV Docker GUI plugin\./d' "${DEFAULT_DOCKER_FILE}"
-            sed -i '/OMVDOCKER_IMAGE_PATH=/d' "${DEFAULT_DOCKER_FILE}"
-            sed -i '/### Do not add any configuration below this line\. It will be removed when the plugin is removed/d' "${DEFAULT_DOCKER_FILE}"
-        fi
-        
-        systemctl daemon-reload
-
         if omv_config_exists $CONFIG; then
             echo "Deleting Configuration"
             omv_config_delete $CONFIG;
-        fi
-
-        if ! omv_config_exists $CONFIG; then
-            echo "Configuration Deleted"
         fi
         ;;
 
