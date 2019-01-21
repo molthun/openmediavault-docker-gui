@@ -3,14 +3,14 @@
 # This file is distributed under the same license as the openmediavault-docker-gui package.
 # 
 # Translators:
-# Pavel Borecki <pavel.borecki@gmail.com>, 2015,2017
+# Pavel Borecki <pavel.borecki@gmail.com>, 2015,2017,2019
 msgid ""
 msgstr ""
 "Project-Id-Version: openmediavault-docker-gui\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-17 07:38-0600\n"
-"PO-Revision-Date: 2019-01-17 13:38+0000\n"
-"Last-Translator: Aaron Murray <aaronmurray27@gmail.com>\n"
+"PO-Revision-Date: 2019-01-18 06:17+0000\n"
+"Last-Translator: Pavel Borecki <pavel.borecki@gmail.com>\n"
 "Language-Team: Czech (Czech Republic) (http://www.transifex.com/openmediavault-plugin-developers/openmediavault-docker-gui/language/cs_CZ/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,10 +19,10 @@ msgstr ""
 "Plural-Forms: nplurals=4; plural=(n == 1 && n % 1 == 0) ? 0 : (n >= 2 && n <= 4 && n % 1 == 0) ? 1: (n % 1 != 0 ) ? 2 : 3;\n"
 
 msgid "Action"
-msgstr ""
+msgstr "Akce"
 
 msgid "Add"
-msgstr ""
+msgstr "Přidat"
 
 msgid "Bad input"
 msgstr "Neplatný vstup"
@@ -31,52 +31,52 @@ msgid "COMMAND"
 msgstr "PŘÍKAZ"
 
 msgid "CONTAINER COMMAND"
-msgstr ""
+msgstr "PŘÍKAZ KONTEJNERU"
 
 msgid "CONTAINER ID"
 msgstr "IDENTIFIKÁTOR KONTEJNERU"
 
 msgid "CONTAINERS"
-msgstr ""
+msgstr "KONTEJNERY"
 
 msgid "CREATED"
 msgstr "VYTVOŘENO"
 
 msgid "Category"
-msgstr ""
+msgstr "Kategorie"
 
 msgid "Clear Log"
-msgstr ""
+msgstr "Vyčistit záznam událostí"
 
 msgid "Close"
 msgstr "Zavřít"
 
 msgid "Command"
-msgstr ""
+msgstr "Příkaz"
 
 msgid "Commit"
-msgstr ""
+msgstr "Odeslat"
 
 msgid "Connect"
-msgstr ""
+msgstr "Připojit"
 
 msgid "Connect Network"
-msgstr ""
+msgstr "Připojit síť"
 
 msgid "Connect network"
-msgstr ""
+msgstr "Připojit síť"
 
 msgid "Container"
-msgstr ""
+msgstr "Kontejner"
 
 msgid "Container command"
-msgstr ""
+msgstr "Příkaz kontejneru"
 
 msgid "Container details"
 msgstr "Podrobnosti o kontejneru"
 
 msgid "Container logs"
-msgstr ""
+msgstr "Záznamy událostí kontejneru"
 
 msgid "Container name"
 msgstr "Název kontejneru"
@@ -88,61 +88,61 @@ msgid "Copy container"
 msgstr "Zkopírovat kontejner"
 
 msgid "Copy data container"
-msgstr ""
+msgstr "Zkopírovat datový kontejner"
 
 msgid "Create"
-msgstr ""
+msgstr "Vytvořit"
 
 msgid "Create data container"
-msgstr ""
+msgstr "Vytvořit datový kontejner"
 
 msgid "Create network"
-msgstr ""
+msgstr "Vytvořit síť"
 
 msgid "DRIVER"
-msgstr ""
+msgstr "OVLADAČ"
 
 msgid "Delete"
 msgstr "Smazat"
 
 msgid "Description"
-msgstr ""
+msgstr "Popis"
 
 msgid "Details"
 msgstr "Podrobnosti"
 
 msgid "Disconnect"
-msgstr ""
+msgstr "Odpojit"
 
 msgid "Disconnect Network"
-msgstr ""
+msgstr "Odpojit síť"
 
 msgid "Disconnect network"
-msgstr ""
+msgstr "Odpojit síť"
 
 msgid "Docker"
 msgstr "Docker"
 
 msgid "Docker Containers"
-msgstr ""
+msgstr "Docker kontejnery"
 
 msgid "Docker Images"
-msgstr ""
+msgstr "Docker obrazy"
 
 msgid "Docker Network"
-msgstr ""
+msgstr "Docker síť"
 
 msgid "Docker image"
 msgstr "Docker obraz"
 
 msgid "Docker images repo"
-msgstr ""
+msgstr "Repozitář docker obrazů"
 
 msgid "EXTRA ARGUMENTS"
-msgstr ""
+msgstr "DALŠÍ ARGUMENTY"
 
 msgid "Edit"
-msgstr ""
+msgstr "Upravit"
 
 msgid "Enable the plugin"
 msgstr "Zapnout tento zásuvný modul"
@@ -151,25 +151,25 @@ msgid "Environment variables"
 msgstr "Proměnné prostředí"
 
 msgid "Execute command"
-msgstr ""
+msgstr "Vykonat příkaz"
 
 msgid "Extra args"
-msgstr ""
+msgstr "Další arg."
 
 msgid "Extra arguments"
-msgstr ""
+msgstr "Další argumenty"
 
 msgid "Gateway"
-msgstr ""
+msgstr "Brána"
 
 msgid "General"
 msgstr "Obecné"
 
 msgid "Host name"
-msgstr ""
+msgstr "Název stroje"
 
 msgid "ID"
-msgstr ""
+msgstr "Identif."
 
 msgid "IMAGE"
 msgstr "OBRAZ"
@@ -178,7 +178,7 @@ msgid "IMAGE ID"
 msgstr "IDENTIFIKÁTOR OBRAZU"
 
 msgid "IP Address"
-msgstr ""
+msgstr "IP adresa"
 
 msgid "Image details"
 msgstr "Podrobnosti o obrazu"
@@ -193,64 +193,64 @@ msgid "Information"
 msgstr "Informace"
 
 msgid "Ip Address"
-msgstr ""
+msgstr "IP adresa"
 
 msgid "It is not possible to modify a data container."
-msgstr ""
+msgstr "Datový kontejner není možné upravovat"
 
 msgid "LOG SIZE"
-msgstr ""
+msgstr "VELIKOST ZÁZNAMU UDÁLOSTÍ"
 
 msgid "Logo"
-msgstr ""
+msgstr "Logo"
 
 msgid "Logs"
-msgstr ""
+msgstr "Záznamy událostí"
 
 msgid "Macvlan settings"
-msgstr ""
+msgstr "Nastavení macvlan"
 
 msgid "Modify"
-msgstr ""
+msgstr "Upravit"
 
 msgid "Modify container"
-msgstr ""
+msgstr "Upravit kontejner"
 
 msgid "Modify container failed with message: </br>"
-msgstr ""
+msgstr "Úprava kontejneru se nezdařila s následující zprávou: </br>"
 
 msgid "Modify operation failed"
-msgstr ""
+msgstr "Operace úpravy se nezdařila"
 
 msgid "NAME"
-msgstr ""
+msgstr "NÁZEV"
 
 msgid "NAMES"
 msgstr "NÁZVY"
 
 msgid "Name"
-msgstr ""
+msgstr "Název"
 
 msgid "Network driver"
-msgstr ""
+msgstr "Ovladač sítě"
 
 msgid "Network mode"
 msgstr "Režim sítě"
 
 msgid "Network name"
-msgstr ""
+msgstr "Název sítě"
 
 msgid "Networking"
 msgstr "Síť"
 
 msgid "Networks"
-msgstr ""
+msgstr "Sítě"
 
 msgid "No matching repositories found."
-msgstr ""
+msgstr "Nenalezeny žádné odpovídající repozitáře."
 
 msgid "Number of retries for on-failure mode"
-msgstr ""
+msgstr "Počet opakovaných pokusů pro režim při nezdaru"
 
 msgid "Output"
 msgstr "Výstup"
@@ -265,7 +265,7 @@ msgid "Parameters"
 msgstr "Parametry"
 
 msgid "Parent"
-msgstr ""
+msgstr "Nadřazené"
 
 msgid ""
 "Please be aware that <b>all</b> non-persistent data within the "
@@ -275,13 +275,13 @@ msgid ""
 "-openmediavault-docker-gui-Testing/?postID=101996#post102450' "
 "target='_blank'>Link</a></br>This warning can be disabled on the Settings "
 "tab"
-msgstr ""
+msgstr "Mějte na paměti, že <b>všechna</b> netrvalá data v kontejneru </br> budou <b>smazána</b></br>Další informace naleznete v:</br><a href='http://forums.openmediavault.org/index.php/Thread/10921-openmediavault-docker-gui-Testing/?postID=101996#post102450' target='_blank'>Odkaz</a></br>Toto varování je možné vypnout na kartě Nastavení"
 
 msgid ""
 "Please check the docker <a "
 "href='https://docs.docker.com/engine/userguide/networking/get-started-"
 "macvlan/' target='_blank'>macvlan documentation</a> for more details."
-msgstr ""
+msgstr "Podrobnosti naleznete v dokumentaci k <a href='https://docs.docker.com/engine/userguide/networking/get-started-macvlan/' target='_blank'>docker macvlan</a>."
 
 msgid "Please wait ..."
 msgstr "Čekejte…"
@@ -302,7 +302,7 @@ msgid "Refresh"
 msgstr "Načíst znovu"
 
 msgid "Refresh image"
-msgstr ""
+msgstr "Znovu načíst obraz"
 
 msgid "Repository"
 msgstr "Repozitář"
@@ -311,13 +311,13 @@ msgid "Restart"
 msgstr "Restartovat"
 
 msgid "Restart Policy"
-msgstr ""
+msgstr "Zásada restartu"
 
 msgid "Run Image"
 msgstr "Spustit obraz"
 
 msgid "Run cmd"
-msgstr ""
+msgstr "Spustit příkaz"
 
 msgid "Run container"
 msgstr "Spustit kontejner"
@@ -329,31 +329,31 @@ msgid "Run image"
 msgstr "Spustit obraz"
 
 msgid "SCOPE"
-msgstr ""
+msgstr "ROZSAH"
 
 msgid "STATE"
-msgstr ""
+msgstr "STAV"
 
 msgid "STATUS"
 msgstr "STAV"
 
 msgid "SUBNET"
-msgstr ""
+msgstr "PODSÍŤ"
 
 msgid "Search"
 msgstr "Hledat"
 
 msgid "Searching..."
-msgstr ""
+msgstr "Hledání…"
 
 msgid "Select a container..."
-msgstr ""
+msgstr "Vybrat kontejner…"
 
 msgid "Select a macvlan network ..."
-msgstr ""
+msgstr "Vybrat macvlan síť…"
 
 msgid "Select macvlan network"
-msgstr ""
+msgstr "Vybrat macvlan síť"
 
 msgid "Settings"
 msgstr "Nastavení"
@@ -365,10 +365,10 @@ msgid "Stop"
 msgstr "Zastavit"
 
 msgid "Subnet"
-msgstr ""
+msgstr "Podsíť"
 
 msgid "Sync time with host"
-msgstr ""
+msgstr "Synchronizovat čas s hostitelem"
 
 msgid "TAG"
 msgstr "ZNAČKA"
@@ -384,34 +384,34 @@ msgstr "Základní umístění pro Docker (toto nastavení je volitelné a pokud
 
 msgid ""
 "These extra arguments will be passed to docker when running the container"
-msgstr ""
+msgstr "Tyto další argumenty budou při spouštění kontejneru přidány do docker"
 
 msgid "This command and any arguments will be passed to the container"
-msgstr ""
+msgstr "Tento příkaz a všechny argumenty budou předány kontejneru"
 
 msgid "This setting does not stop/disable or start/enable the docker daemon"
-msgstr ""
+msgstr "Toto nastavení nezastaví/nevypne nebo nespustí/nezapne proces služby docker"
 
 msgid "Undo"
-msgstr ""
+msgstr "Zpět"
 
 msgid "Update available. Click to refresh image"
-msgstr ""
+msgstr "Je k dispozici aktualizace. Kliknutím obraz zaktualizujete"
 
 msgid "VIRTUAL SIZE"
 msgstr "VIRTUÁLNÍ VELIKOST"
 
 msgid "Volumes"
-msgstr ""
+msgstr "Svazky"
 
 msgid "Volumes and Bind mounts"
-msgstr ""
+msgstr "Svazky a spojovací připojení"
 
 msgid "Volumes from"
-msgstr ""
+msgstr "Svazek z"
 
 msgid "Warn when modifying container"
-msgstr ""
+msgstr "Varovat při úpravě kontejneru"
 
 msgid "Warning"
-msgstr ""
+msgstr "Varování"
