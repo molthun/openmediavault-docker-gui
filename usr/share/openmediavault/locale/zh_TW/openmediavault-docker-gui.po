@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: openmediavault-docker-gui\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-17 07:38-0600\n"
-"PO-Revision-Date: 2019-01-20 16:43+0000\n"
+"PO-Revision-Date: 2019-01-23 19:42+0000\n"
 "Last-Translator: kochin <kochinc@outlook.com>\n"
 "Language-Team: Chinese (Taiwan) (http://www.transifex.com/openmediavault-plugin-developers/openmediavault-docker-gui/language/zh_TW/)\n"
 "MIME-Version: 1.0\n"
@@ -19,10 +19,10 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 msgid "Action"
-msgstr ""
+msgstr "動作"
 
 msgid "Add"
-msgstr ""
+msgstr "加入"
 
 msgid "Bad input"
 msgstr "無效的輸入"
@@ -31,52 +31,52 @@ msgid "COMMAND"
 msgstr "指令"
 
 msgid "CONTAINER COMMAND"
-msgstr ""
+msgstr "容器指令"
 
 msgid "CONTAINER ID"
 msgstr "容器識別碼"
 
 msgid "CONTAINERS"
-msgstr ""
+msgstr "容器"
 
 msgid "CREATED"
 msgstr "已建立"
 
 msgid "Category"
-msgstr ""
+msgstr "類別"
 
 msgid "Clear Log"
-msgstr ""
+msgstr "清除日誌"
 
 msgid "Close"
 msgstr "關閉"
 
 msgid "Command"
-msgstr ""
+msgstr "指令"
 
 msgid "Commit"
-msgstr ""
+msgstr "寫定"
 
 msgid "Connect"
-msgstr ""
+msgstr "連網"
 
 msgid "Connect Network"
-msgstr ""
+msgstr "連接網路"
 
 msgid "Connect network"
-msgstr ""
+msgstr "連接網路"
 
 msgid "Container"
-msgstr ""
+msgstr "容器"
 
 msgid "Container command"
-msgstr ""
+msgstr "容器指令"
 
 msgid "Container details"
 msgstr "容器詳情"
 
 msgid "Container logs"
-msgstr ""
+msgstr "容器日誌"
 
 msgid "Container name"
 msgstr "容器名稱"
@@ -88,61 +88,61 @@ msgid "Copy container"
 msgstr "複製容器"
 
 msgid "Copy data container"
-msgstr ""
+msgstr "複製資料容器"
 
 msgid "Create"
-msgstr ""
+msgstr "新建"
 
 msgid "Create data container"
-msgstr ""
+msgstr "建立資料容器"
 
 msgid "Create network"
-msgstr ""
+msgstr "建立網路"
 
 msgid "DRIVER"
-msgstr ""
+msgstr "驅動程式"
 
 msgid "Delete"
 msgstr "刪除"
 
 msgid "Description"
-msgstr ""
+msgstr "敘述"
 
 msgid "Details"
 msgstr "詳情"
 
 msgid "Disconnect"
-msgstr ""
+msgstr "斷網"
 
 msgid "Disconnect Network"
-msgstr ""
+msgstr "切斷網路連接"
 
 msgid "Disconnect network"
-msgstr ""
+msgstr "切斷網路連接"
 
 msgid "Docker"
 msgstr "Docker"
 
 msgid "Docker Containers"
-msgstr ""
+msgstr "Docker 容器"
 
 msgid "Docker Images"
-msgstr ""
+msgstr "Docker 影像"
 
 msgid "Docker Network"
-msgstr ""
+msgstr "Docker 網路"
 
 msgid "Docker image"
 msgstr "Docker 影像"
 
 msgid "Docker images repo"
-msgstr ""
+msgstr "Docker 影像庫"
 
 msgid "EXTRA ARGUMENTS"
-msgstr ""
+msgstr "額外參數"
 
 msgid "Edit"
-msgstr ""
+msgstr "編輯"
 
 msgid "Enable the plugin"
 msgstr "啟用該插件"
@@ -151,25 +151,25 @@ msgid "Environment variables"
 msgstr "環境變數"
 
 msgid "Execute command"
-msgstr ""
+msgstr "執行指令"
 
 msgid "Extra args"
-msgstr ""
+msgstr "額外參數"
 
 msgid "Extra arguments"
-msgstr ""
+msgstr "額外參數"
 
 msgid "Gateway"
-msgstr ""
+msgstr "閘道器"
 
 msgid "General"
 msgstr "一般"
 
 msgid "Host name"
-msgstr ""
+msgstr "主機名稱"
 
 msgid "ID"
-msgstr ""
+msgstr "識別碼"
 
 msgid "IMAGE"
 msgstr "影像"
@@ -178,7 +178,7 @@ msgid "IMAGE ID"
 msgstr "影像識別碼"
 
 msgid "IP Address"
-msgstr ""
+msgstr "IP 地址"
 
 msgid "Image details"
 msgstr "影像詳情"
@@ -193,64 +193,64 @@ msgid "Information"
 msgstr "資訊"
 
 msgid "Ip Address"
-msgstr ""
+msgstr "Ip 地址"
 
 msgid "It is not possible to modify a data container."
-msgstr ""
+msgstr "不可能修改資料容器。"
 
 msgid "LOG SIZE"
-msgstr ""
+msgstr "日誌大小"
 
 msgid "Logo"
-msgstr ""
+msgstr "日誌"
 
 msgid "Logs"
-msgstr ""
+msgstr "日誌"
 
 msgid "Macvlan settings"
-msgstr ""
+msgstr "Macvlan 設定"
 
 msgid "Modify"
-msgstr ""
+msgstr "修改"
 
 msgid "Modify container"
-msgstr ""
+msgstr "修改容器"
 
 msgid "Modify container failed with message: </br>"
-msgstr ""
+msgstr "修改容器失敗，得到訊息：</br>"
 
 msgid "Modify operation failed"
-msgstr ""
+msgstr "修改操作失敗"
 
 msgid "NAME"
-msgstr ""
+msgstr "名稱"
 
 msgid "NAMES"
 msgstr "名稱"
 
 msgid "Name"
-msgstr ""
+msgstr "名稱"
 
 msgid "Network driver"
-msgstr ""
+msgstr "網路驅動程式"
 
 msgid "Network mode"
 msgstr "網路模式"
 
 msgid "Network name"
-msgstr ""
+msgstr "網路名稱"
 
 msgid "Networking"
 msgstr "網路"
 
 msgid "Networks"
-msgstr ""
+msgstr "網路"
 
 msgid "No matching repositories found."
-msgstr ""
+msgstr "找不到相符的影像庫。"
 
 msgid "Number of retries for on-failure mode"
-msgstr ""
+msgstr "在失敗模式時的重試次數"
 
 msgid "Output"
 msgstr "輸出"
@@ -265,7 +265,7 @@ msgid "Parameters"
 msgstr "參數"
 
 msgid "Parent"
-msgstr ""
+msgstr "父介面"
 
 msgid ""
 "Please be aware that <b>all</b> non-persistent data within the "
@@ -275,13 +275,13 @@ msgid ""
 "-openmediavault-docker-gui-Testing/?postID=101996#post102450' "
 "target='_blank'>Link</a></br>This warning can be disabled on the Settings "
 "tab"
-msgstr ""
+msgstr "請注意在容器內<b>全部</b>非持久資料，</br>將會被<b>刪除</b></br>請參閱此處的額外資訊：</br><a href='http://forums.openmediavault.org/index.php/Thread/10921-openmediavault-docker-gui-Testing/?postID=101996#post102450' target='_blank'>連結</a></br>此警告可於設定分頁上停用"
 
 msgid ""
 "Please check the docker <a "
 "href='https://docs.docker.com/engine/userguide/networking/get-started-"
 "macvlan/' target='_blank'>macvlan documentation</a> for more details."
-msgstr ""
+msgstr "細節請參閱 docker 的<a href='https://docs.docker.com/engine/userguide/networking/get-started-macvlan/' target='_blank'>macvlan 文件</a>。"
 
 msgid "Please wait ..."
 msgstr "請稍候 ..."
@@ -302,7 +302,7 @@ msgid "Refresh"
 msgstr "更新"
 
 msgid "Refresh image"
-msgstr ""
+msgstr "更新影像"
 
 msgid "Repository"
 msgstr "影像庫"
@@ -311,13 +311,13 @@ msgid "Restart"
 msgstr "重新啟動"
 
 msgid "Restart Policy"
-msgstr ""
+msgstr "重新啟動規策"
 
 msgid "Run Image"
 msgstr "執行影像"
 
 msgid "Run cmd"
-msgstr ""
+msgstr "執行指令"
 
 msgid "Run container"
 msgstr "執行容器"
@@ -329,31 +329,31 @@ msgid "Run image"
 msgstr "執行影像"
 
 msgid "SCOPE"
-msgstr ""
+msgstr "範疇"
 
 msgid "STATE"
-msgstr ""
-
-msgid "STATUS"
 msgstr "狀態"
 
+msgid "STATUS"
+msgstr "狀況"
+
 msgid "SUBNET"
-msgstr ""
+msgstr "子網路"
 
 msgid "Search"
 msgstr "搜尋"
 
 msgid "Searching..."
-msgstr ""
+msgstr "搜尋中..."
 
 msgid "Select a container..."
-msgstr ""
+msgstr "選擇一個容器..."
 
 msgid "Select a macvlan network ..."
-msgstr ""
+msgstr "選擇一個 macvlan 網路 ..."
 
 msgid "Select macvlan network"
-msgstr ""
+msgstr "選擇 macvlan 網路"
 
 msgid "Settings"
 msgstr "設定"
@@ -365,10 +365,10 @@ msgid "Stop"
 msgstr "停止"
 
 msgid "Subnet"
-msgstr ""
+msgstr "子網路"
 
 msgid "Sync time with host"
-msgstr ""
+msgstr "與主機時間做同步"
 
 msgid "TAG"
 msgstr "標籤"
@@ -384,34 +384,34 @@ msgstr "Docker 基礎路徑的位置 (此設定是選擇性的，若未設定則
 
 msgid ""
 "These extra arguments will be passed to docker when running the container"
-msgstr ""
+msgstr "這些額外的參數會在執行容器時，傳送給 docker"
 
 msgid "This command and any arguments will be passed to the container"
-msgstr ""
+msgstr "這個指令與任何參數將會傳給容器"
 
 msgid "This setting does not stop/disable or start/enable the docker daemon"
-msgstr ""
+msgstr "此設定並不會停止/停用或啟動/啟用 docker 常駐程式"
 
 msgid "Undo"
-msgstr ""
+msgstr "復原"
 
 msgid "Update available. Click to refresh image"
-msgstr ""
+msgstr "有可用的更新。請點擊來刷新影像"
 
 msgid "VIRTUAL SIZE"
 msgstr "虛擬大小"
 
 msgid "Volumes"
-msgstr ""
+msgstr "儲存卷"
 
 msgid "Volumes and Bind mounts"
-msgstr ""
+msgstr "儲存卷及結合掛載"
 
 msgid "Volumes from"
-msgstr ""
+msgstr "儲存卷來自"
 
 msgid "Warn when modifying container"
-msgstr ""
+msgstr "當修改容器時，發出警告"
 
 msgid "Warning"
 msgstr "警告"

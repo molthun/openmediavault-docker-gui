@@ -3,14 +3,14 @@
 # This file is distributed under the same license as the openmediavault-docker-gui package.
 # 
 # Translators:
-# Raul Fernandez Garcia <raulfg3@gmail.com>, 2015
+# Raul Fernandez Garcia <raulfg3@gmail.com>, 2015,2019
 msgid ""
 msgstr ""
 "Project-Id-Version: openmediavault-docker-gui\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-17 07:38-0600\n"
-"PO-Revision-Date: 2019-01-17 13:38+0000\n"
-"Last-Translator: Aaron Murray <aaronmurray27@gmail.com>\n"
+"PO-Revision-Date: 2019-01-22 13:00+0000\n"
+"Last-Translator: Raul Fernandez Garcia <raulfg3@gmail.com>\n"
 "Language-Team: Spanish (http://www.transifex.com/openmediavault-plugin-developers/openmediavault-docker-gui/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,10 +19,10 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "Action"
-msgstr ""
+msgstr "Acción"
 
 msgid "Add"
-msgstr ""
+msgstr "Añadir"
 
 msgid "Bad input"
 msgstr "Entrada incorrecta"
@@ -31,52 +31,52 @@ msgid "COMMAND"
 msgstr "COMANDO"
 
 msgid "CONTAINER COMMAND"
-msgstr ""
+msgstr "Comando Contenedor"
 
 msgid "CONTAINER ID"
 msgstr "ID del CONTENEDOR"
 
 msgid "CONTAINERS"
-msgstr ""
+msgstr "Contenedores"
 
 msgid "CREATED"
 msgstr "CREADO"
 
 msgid "Category"
-msgstr ""
+msgstr "Categoria"
 
 msgid "Clear Log"
-msgstr ""
+msgstr "Limpiar Log"
 
 msgid "Close"
 msgstr "Cerrar"
 
 msgid "Command"
-msgstr ""
+msgstr "Comando"
 
 msgid "Commit"
-msgstr ""
+msgstr "Aplicar"
 
 msgid "Connect"
-msgstr ""
+msgstr "Conectar"
 
 msgid "Connect Network"
-msgstr ""
+msgstr "Red Conectada"
 
 msgid "Connect network"
-msgstr ""
+msgstr "Red Conectada"
 
 msgid "Container"
-msgstr ""
+msgstr "Contenedor"
 
 msgid "Container command"
-msgstr ""
+msgstr "Comando del contenedor"
 
 msgid "Container details"
 msgstr "Detalles del contenedor"
 
 msgid "Container logs"
-msgstr ""
+msgstr "Logs del contenedor"
 
 msgid "Container name"
 msgstr "Nombre del contenedor"
@@ -88,61 +88,61 @@ msgid "Copy container"
 msgstr "Copiar contenedor"
 
 msgid "Copy data container"
-msgstr ""
+msgstr "Copiar datos del contenedor"
 
 msgid "Create"
-msgstr ""
+msgstr "Crear"
 
 msgid "Create data container"
-msgstr ""
+msgstr "Crear un conteedor de datos"
 
 msgid "Create network"
-msgstr ""
+msgstr "Crear una red"
 
 msgid "DRIVER"
-msgstr ""
+msgstr "DRIVER"
 
 msgid "Delete"
 msgstr "Borrar"
 
 msgid "Description"
-msgstr ""
+msgstr "Descripción"
 
 msgid "Details"
 msgstr "Detalles"
 
 msgid "Disconnect"
-msgstr ""
+msgstr "Desconectar"
 
 msgid "Disconnect Network"
-msgstr ""
+msgstr "Desconectar red"
 
 msgid "Disconnect network"
-msgstr ""
+msgstr "Desconectar red"
 
 msgid "Docker"
 msgstr "Docker"
 
 msgid "Docker Containers"
-msgstr ""
+msgstr "Contenedores Docker"
 
 msgid "Docker Images"
-msgstr ""
+msgstr "Imagenes Docker"
 
 msgid "Docker Network"
-msgstr ""
+msgstr "Redes Docker"
 
 msgid "Docker image"
 msgstr "Imagen Docker"
 
 msgid "Docker images repo"
-msgstr ""
+msgstr "Repositorio Imagenes Docker"
 
 msgid "EXTRA ARGUMENTS"
-msgstr ""
+msgstr "Arg. Extra"
 
 msgid "Edit"
-msgstr ""
+msgstr "Editar"
 
 msgid "Enable the plugin"
 msgstr "Habilitar"
@@ -151,25 +151,25 @@ msgid "Environment variables"
 msgstr "Variables de entorno"
 
 msgid "Execute command"
-msgstr ""
+msgstr "Ejecutar orden"
 
 msgid "Extra args"
-msgstr ""
+msgstr "arg. extra"
 
 msgid "Extra arguments"
-msgstr ""
+msgstr "arg. extra"
 
 msgid "Gateway"
-msgstr ""
+msgstr "Pasarela"
 
 msgid "General"
 msgstr "General"
 
 msgid "Host name"
-msgstr ""
+msgstr "Nombre de Host"
 
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 msgid "IMAGE"
 msgstr "IMAGEN"
@@ -178,7 +178,7 @@ msgid "IMAGE ID"
 msgstr "ID de la IMAGEN"
 
 msgid "IP Address"
-msgstr ""
+msgstr "IP"
 
 msgid "Image details"
 msgstr "Detalles de la Imagen"
@@ -193,64 +193,64 @@ msgid "Information"
 msgstr "Información"
 
 msgid "Ip Address"
-msgstr ""
+msgstr "IP"
 
 msgid "It is not possible to modify a data container."
-msgstr ""
+msgstr "No es posible modificar un contenedor de datos."
 
 msgid "LOG SIZE"
-msgstr ""
+msgstr "Tamaño del Log"
 
 msgid "Logo"
-msgstr ""
+msgstr "Logo"
 
 msgid "Logs"
-msgstr ""
+msgstr "Logs"
 
 msgid "Macvlan settings"
-msgstr ""
+msgstr "Opciones MacVlan"
 
 msgid "Modify"
-msgstr ""
+msgstr "Modificar"
 
 msgid "Modify container"
-msgstr ""
+msgstr "Modificar contenedor"
 
 msgid "Modify container failed with message: </br>"
-msgstr ""
+msgstr "Error al modificar un contenedor: </br>"
 
 msgid "Modify operation failed"
-msgstr ""
+msgstr "Operación de modificación fallida"
 
 msgid "NAME"
-msgstr ""
+msgstr "NOMBRE"
 
 msgid "NAMES"
 msgstr "NOMBRES"
 
 msgid "Name"
-msgstr ""
+msgstr "Nombre"
 
 msgid "Network driver"
-msgstr ""
+msgstr "Driver de red"
 
 msgid "Network mode"
 msgstr "Modo Red"
 
 msgid "Network name"
-msgstr ""
+msgstr "Nombre de red"
 
 msgid "Networking"
 msgstr "Red"
 
 msgid "Networks"
-msgstr ""
+msgstr "Redes"
 
 msgid "No matching repositories found."
-msgstr ""
+msgstr "No se encuentran repositorios que coincidan."
 
 msgid "Number of retries for on-failure mode"
-msgstr ""
+msgstr "Numero de re-intentos en caso de fallo."
 
 msgid "Output"
 msgstr "Salida"
@@ -265,7 +265,7 @@ msgid "Parameters"
 msgstr "Parametros"
 
 msgid "Parent"
-msgstr ""
+msgstr "Padre"
 
 msgid ""
 "Please be aware that <b>all</b> non-persistent data within the "
@@ -275,13 +275,13 @@ msgid ""
 "-openmediavault-docker-gui-Testing/?postID=101996#post102450' "
 "target='_blank'>Link</a></br>This warning can be disabled on the Settings "
 "tab"
-msgstr ""
+msgstr "Tenga en cuenta que <b>todos</b> los datos no persistentes del contenedor </br>serán<b>borrados</b></br>Por favor mire esto para más información:</br><a href='http://forums.openmediavault.org/index.php/Thread/10921-openmediavault-docker-gui-Testing/?postID=101996#post102450' target='_blank'>Link</a></br>Este mensaje puede ser deshabilitado en la pestaña de opciones."
 
 msgid ""
 "Please check the docker <a "
 "href='https://docs.docker.com/engine/userguide/networking/get-started-"
 "macvlan/' target='_blank'>macvlan documentation</a> for more details."
-msgstr ""
+msgstr "Por favor consulte la documentación de docker <a href='https://docs.docker.com/engine/userguide/networking/get-started-macvlan/' target='_blank'>referenta a las MacVlans</a> para más detalles."
 
 msgid "Please wait ..."
 msgstr "Espere ..."
@@ -302,7 +302,7 @@ msgid "Refresh"
 msgstr "Refrescar"
 
 msgid "Refresh image"
-msgstr ""
+msgstr "Refrescar Imagen"
 
 msgid "Repository"
 msgstr "Repositorio"
@@ -311,13 +311,13 @@ msgid "Restart"
 msgstr "Reiniciar"
 
 msgid "Restart Policy"
-msgstr ""
+msgstr "Política de reinicios"
 
 msgid "Run Image"
 msgstr "Ejecutar Imagen"
 
 msgid "Run cmd"
-msgstr ""
+msgstr "Ejecutar comando"
 
 msgid "Run container"
 msgstr "Ejecutar contenedor"
@@ -329,31 +329,31 @@ msgid "Run image"
 msgstr "Ejecutar imagen"
 
 msgid "SCOPE"
-msgstr ""
+msgstr "SCOPE"
 
 msgid "STATE"
-msgstr ""
+msgstr "ESTADO"
 
 msgid "STATUS"
 msgstr "ESTADO"
 
 msgid "SUBNET"
-msgstr ""
+msgstr "SUBRED"
 
 msgid "Search"
 msgstr "Buscar"
 
 msgid "Searching..."
-msgstr ""
+msgstr "Buscando..."
 
 msgid "Select a container..."
-msgstr ""
+msgstr "Seleccionar un contenedor..."
 
 msgid "Select a macvlan network ..."
-msgstr ""
+msgstr "Seleccionar una red MacVlan..."
 
 msgid "Select macvlan network"
-msgstr ""
+msgstr "Seleccionar una red MacVlan"
 
 msgid "Settings"
 msgstr "Opciones"
@@ -365,10 +365,10 @@ msgid "Stop"
 msgstr "Parar"
 
 msgid "Subnet"
-msgstr ""
+msgstr "Sub-Red"
 
 msgid "Sync time with host"
-msgstr ""
+msgstr "Sinc. hora con el host"
 
 msgid "TAG"
 msgstr "TAG"
@@ -384,34 +384,34 @@ msgstr "Ruta base (Esta opcion por defecto es /var/lib/docker y se puede dejar e
 
 msgid ""
 "These extra arguments will be passed to docker when running the container"
-msgstr ""
+msgstr "Estos argumentos extras serán pasados al contenedor cuando se ejecute el contenedor."
 
 msgid "This command and any arguments will be passed to the container"
-msgstr ""
+msgstr "Este comando y los argumentos adicionales, serán pasados al contenedor"
 
 msgid "This setting does not stop/disable or start/enable the docker daemon"
-msgstr ""
+msgstr "Esta opción NO para/deshabilita o arranca/habilita el demonio docker"
 
 msgid "Undo"
-msgstr ""
+msgstr "Deshacer"
 
 msgid "Update available. Click to refresh image"
-msgstr ""
+msgstr "Actualización disponible. click para refrescar la imagen."
 
 msgid "VIRTUAL SIZE"
 msgstr "TAMAÑO VIRTUAL"
 
 msgid "Volumes"
-msgstr ""
+msgstr "Volúmenes"
 
 msgid "Volumes and Bind mounts"
-msgstr ""
+msgstr "Volúmenes y puntos de montaje"
 
 msgid "Volumes from"
-msgstr ""
+msgstr "Volúmenes de"
 
 msgid "Warn when modifying container"
-msgstr ""
+msgstr "Avisar cuando se modifique un contenedor"
 
 msgid "Warning"
-msgstr ""
+msgstr "Aviso"
