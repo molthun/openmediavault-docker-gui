@@ -34,10 +34,10 @@ msgid "CONTAINER COMMAND"
 msgstr ""
 
 msgid "CONTAINER ID"
-msgstr "ИД КОНТЕЙНЕРА"
+msgstr "ID КОНТЕЙНЕРА"
 
 msgid "CONTAINERS"
-msgstr ""
+msgstr "КОНТЕЙНЕР"
 
 msgid "CREATED"
 msgstr "СОЗДАННЫЙ"
@@ -106,7 +106,7 @@ msgid "Delete"
 msgstr "Удалить"
 
 msgid "Description"
-msgstr ""
+msgstr "Описание"
 
 msgid "Details"
 msgstr "Детали"
@@ -169,16 +169,16 @@ msgid "Host name"
 msgstr ""
 
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 msgid "IMAGE"
 msgstr "ОБРАЗ"
 
 msgid "IMAGE ID"
-msgstr "ИД ОБРАЗА"
+msgstr "ID ОБРАЗА"
 
 msgid "IP Address"
-msgstr ""
+msgstr "IP Адрес"
 
 msgid "Image details"
 msgstr "Детали о образе"
@@ -193,19 +193,19 @@ msgid "Information"
 msgstr "Информация"
 
 msgid "Ip Address"
-msgstr ""
+msgstr "IP Адрес"
 
 msgid "It is not possible to modify a data container."
 msgstr ""
 
 msgid "LOG SIZE"
-msgstr ""
+msgstr "РАЗМЕР ЛОГОВ"
 
 msgid "Logo"
-msgstr ""
+msgstr "Логотип"
 
 msgid "Logs"
-msgstr ""
+msgstr "Логи"
 
 msgid "Macvlan settings"
 msgstr ""
@@ -223,13 +223,13 @@ msgid "Modify operation failed"
 msgstr ""
 
 msgid "NAME"
-msgstr ""
+msgstr "ИМЯ"
 
 msgid "NAMES"
 msgstr "ИМЕНА"
 
 msgid "Name"
-msgstr ""
+msgstr "Имя"
 
 msgid "Network driver"
 msgstr ""
@@ -244,10 +244,10 @@ msgid "Networking"
 msgstr "Сеть"
 
 msgid "Networks"
-msgstr ""
+msgstr "Сети"
 
 msgid "No matching repositories found."
-msgstr ""
+msgstr "Подходящие репозитории не найдены."
 
 msgid "Number of retries for on-failure mode"
 msgstr ""
@@ -296,7 +296,7 @@ msgid "Pull image"
 msgstr "Тянуть образ"
 
 msgid "REPOSITORY"
-msgstr "ХРАНИЛИЩЕ"
+msgstr "РЕПОЗИТОРИЙ"
 
 msgid "Refresh"
 msgstr "Обновить"
@@ -317,7 +317,7 @@ msgid "Run Image"
 msgstr "Запустить Образ"
 
 msgid "Run cmd"
-msgstr ""
+msgstr "Запустить cmd"
 
 msgid "Run container"
 msgstr "Запустить контейнер"
@@ -384,19 +384,19 @@ msgstr "Расположение базового пути докера (это�
 
 msgid ""
 "These extra arguments will be passed to docker when running the container"
-msgstr ""
+msgstr "Эти дополнительные аргументы будут переданы в Docker при запуске контейнера"
 
 msgid "This command and any arguments will be passed to the container"
-msgstr ""
+msgstr "Эта команда и любые аргументы будут переданы в контейнер"
 
 msgid "This setting does not stop/disable or start/enable the docker daemon"
-msgstr ""
+msgstr "Этот параметр не останавливает / не отключает и не запускает / не включает демон Docker"
 
 msgid "Undo"
 msgstr ""
 
 msgid "Update available. Click to refresh image"
-msgstr ""
+msgstr "Доступно обновление. Нажмите, чтобы обновить образ"
 
 msgid "VIRTUAL SIZE"
 msgstr "ВИРТУАЛЬНЫЙ РАЗМЕР"
@@ -411,7 +411,7 @@ msgid "Volumes from"
 msgstr ""
 
 msgid "Warn when modifying container"
-msgstr ""
+msgstr "Предупредить при изменении контейнера"
 
 msgid "Warning"
-msgstr ""
+msgstr "Warning"
